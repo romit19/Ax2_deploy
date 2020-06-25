@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ax2_deploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Ax2_deploy/static/js/main.59423d5f.chunk.js",
+    "main.js.map": "/Ax2_deploy/static/js/main.59423d5f.chunk.js.map",
+    "runtime-main.js": "/Ax2_deploy/static/js/runtime-main.54c6376f.js",
+    "runtime-main.js.map": "/Ax2_deploy/static/js/runtime-main.54c6376f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Ax2_deploy/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e488afae.chunk.js": "/Ax2_deploy/static/js/2.e488afae.chunk.js",
+    "static/js/2.e488afae.chunk.js.map": "/Ax2_deploy/static/js/2.e488afae.chunk.js.map",
+    "index.html": "/Ax2_deploy/index.html",
+    "precache-manifest.17595cc7925985f2a4a4581c2778a9d7.js": "/Ax2_deploy/precache-manifest.17595cc7925985f2a4a4581c2778a9d7.js",
+    "service-worker.js": "/Ax2_deploy/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Ax2_deploy/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Ax2_deploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e488afae.chunk.js.LICENSE.txt": "/Ax2_deploy/static/js/2.e488afae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ax2_deploy/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c6376f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.e488afae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59423d5f.chunk.js"
+  ]
+}
